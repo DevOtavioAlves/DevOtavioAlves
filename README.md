@@ -1,25 +1,25 @@
 
 # Hello! I am Otávio Alves 🔥
-### Eu sou um desenvolvedor, atualmente não trabalho e estou aprendendo a cada dia!
+### I'm a developer, I don't work yet but studying to do my best !
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevOtavioAlves&show_icons=true&theme=shadow_red)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevOtavioAlves&theme=shadow_red&layout=compact)
 
-## Linguagens das quais estou aprendendo:
+## Skills of programming I'm leaning !
 
 [![My Skills](https://skillicons.dev/icons?i=kali,java,mysql,lua)](https://skillicons.dev)
 
-## Linguagens das quais quero aprender no futuro:
+## Skills I want to learn in the future !
 
 [![My Skills](https://skillicons.dev/icons?i=php,html,py,js,cpp,cs,c,arduino)](https://skillicons.dev)
 
-## Consigo conversar em:
+## I can speak in:
 
 <img src="https://hatscripts.github.io/circle-flags/flags/gb.svg" width="48"><img src="https://hatscripts.github.io/circle-flags/flags/br.svg" width="48">
 
-# Meus contatos abaixo:
+# My contacts below:
 
 [![My Skills](https://skillicons.dev/icons?i=discord,github)](https://linktr.ee/sh00ting)
 
-# Divirta-se com a cobra abaixo:
+# Enjoy with the snake:
 
 ![snake gif](https://github.com/DevOtavioAlves/DevOtavioAlves/blob/output/github-contribution-grid-snake-dark.svg)
