@@ -18,7 +18,7 @@
 
 # My contacts below:
 
-[![My Skills](https://skillicons.dev/icons?i=discord,github)](https://linktr.ee/sh00ting)
+[![My Skills](https://skillicons.dev/icons?i=discord,github)](https://linktr.ee/otavioalvessec)
 
 # Enjoy with the snake:
 
