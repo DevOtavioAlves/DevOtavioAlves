@@ -1,6 +1,6 @@
 
 # Hello! I am Otávio Alves 🔥
-### I'm a Analyst of Information Security, I don't work yet but studying to do my best !
+### I'm a Researcher of Information Security with focus on Blue Team/SOC !
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevOtavioAlves&show_icons=true&theme=shadow_red)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevOtavioAlves&theme=shadow_red&layout=compact)
 
@@ -19,7 +19,3 @@
 # My contacts below:
 
 [![My Skills](https://skillicons.dev/icons?i=discord,github)](https://linktr.ee/otavioalvessec)
-
-# Enjoy with the snake:
-
-![snake gif](https://github.com/DevOtavioAlves/DevOtavioAlves/blob/output/github-contribution-grid-snake-dark.svg)
