@@ -1,21 +1,95 @@
 
-# Hello! I am Otávio Alves 🔥
-### I'm a Researcher of Information Security with focus on Blue Team/SOC !
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevOtavioAlves&show_icons=true&theme=shadow_red)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevOtavioAlves&theme=shadow_red&layout=compact)
+# Olá, eu sou Otávio Alves 🔥
 
-## Skills of programming I'm leaning !
+ Profissional em desenvolvimento na área de Segurança da Informação, em busca de oportunidades em Cibersegurança e Suporte de TI. Tenho experiência prática em projetos voltados à proteção de infraestruturas corporativas, incluindo:
 
-[![My Skills](https://skillicons.dev/icons?i=kali,java,mysql,lua)](https://skillicons.dev)
+-  **Gestão de Firewalls**
 
-## Skills I want to learn in the future !
+- **Defesa de Endpoints**
 
-[![My Skills](https://skillicons.dev/icons?i=php,html,py,js,cpp,cs,c,arduino)](https://skillicons.dev)
+- **Análise de logs para detecção e mitigação de ameaças**
 
-## I can speak in:
+- **Operações de SOC e resposta a incidentes**
 
-<img src="https://hatscripts.github.io/circle-flags/flags/gb.svg" width="48"><img src="https://hatscripts.github.io/circle-flags/flags/br.svg" width="48">
+ Meu objetivo é consolidar minha carreira como Especialista em Segurança da Informação, com foco em operações de Security Operations Center, contribuindo para a proteção de dados e para a resiliência digital das organizações.
 
-# My contacts below:
+## 🧠 Competências e Ferramentas
+### 🔍 Pentesting
 
-[![My Skills](https://skillicons.dev/icons?i=discord,github)](https://linktr.ee/otavioalvessec)
+• Burp Suite • Nmap/Rustscan • Dirbuster/Gobuster • Metasploit • Nikto
+
+### 🛡️ Análise e Mitigação de Vulnerabilidades
+
+• Nessus • OpenVAS • Qualys • Nexpose
+
+### 👁️‍🗨️ Cyber Threat Intelligence & SOC
+
+• Wazuh • Splunk • ELK Stack (Elastic, Logstash, Kibana) • Suricata • Zeek
+
+### Ferramentas auxiliares: 
+
+• VirusTotal • URLScan
+
+### 🔐 Hardening e Gestão de Acessos
+
+• CIS Benchmarks • Ansible • Active Directory • Group Policy (GPO)
+
+### 🔒 Criptografia e Proteção de Dados
+
+• VeraCrypt • GnuPG • OpenSSL • BitLocker
+
+### 🎭 Defesa Contra Engenharia Social
+
+• KnowBe4 • Cofense • Simulações de Phishing • Security Awareness
+
+### 🧪 Análise Forense & Investigação
+
+• Autopsy - Velociraptor - FTK Imager
+  
+### ⚙️ Automação & Scripting
+
+• Bash • Python
+
+### 💻 Sistemas Operacionais
+
+• Linux • Windows
+
+### 🗃️ Versionamento e Repositórios
+
+• Git • GitHub
+
+Sou movido pela evolução constante das ameaças cibernéticas e busco aplicar meus conhecimentos em ambientes corporativos de alta complexidade, apoiando iniciativas de detecção, prevenção, resposta a incidentes e melhoria contínua da postura de segurança.
+
+## 📚 O que você encontra por aqui?
+
+Aqui estão alguns projetos práticos que demonstram meu conhecimento em diferentes áreas da segurança:
+
+## 🧑‍💻 Let's Defend - Casos Analisados
+
+Análises de incidentes de segurança usando a plataforma Let's Defend, com foco em ataques como Phishing, Malware, Suspicious Login, entre outros. Cada caso detalha a investigação do incidente, desde a identificação até as ações corretivas.
+
+## 🧱 Wazuh Lab
+
+Meu laboratório de segurança com **Wazuh**, cobrindo desde a instalação, **configuração de agentes** até a **criação de regras personalizadas**. Inclui exemplos reais de **eventos de segurança detectados e analisados**.
+
+## 🛡️ Hardening Guides
+
+Guias detalhados para o endurecimento de sistemas operacionais e servidores, com checklists, comandos e explicações sobre como proteger **Linux, Windows, Docker, Nginx, Apache e SSH**.
+
+## 📝 Artigos e Relatórios de Segurança
+
+Artigos escritos sobre temas relevantes de segurança, como análise de vulnerabilidades, técnicas de defesa e melhores práticas. Também compartilho relatórios e insights de minhas experiências práticas.
+
+## ⚙️ Scripts de Automação de Segurança
+
+Uma coleção de scripts úteis para automação de tarefas de segurança, como **coleta de logs, verificação de portas abertas, e escaneamento de serviços**.
+
+## 🔗 Conecte-se comigo
+
+[LinkedIn](https://linkedin.com/in/otavioalvessec)
+
+[Medium](https://medium.com/@otavioalvessec)
+
+## 🎯 O que estou aprendendo agora
+
+Atualmente, estou me aprofundando em técnicas de hunting, forense digital e análise de tráfego de rede para complementar minha experiência com monitoramento de eventos e gestão de incidentes.
